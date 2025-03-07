@@ -2,7 +2,7 @@
 
 ## Overview
 
-MiniShell is a lightweight UNIX-like shell built in C, designed to execute commands, manage processes, and support inter-process communication. The project was developed as part of COEN 346 - Operating Systems.
+MiniShell is a lightweight UNIX-like shell built in C, designed to execute commands, manage processes, and support inter-process communication. 
 
 ## Features
 
